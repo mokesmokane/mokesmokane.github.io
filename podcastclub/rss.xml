@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
@@ -12,7 +13,7 @@
     </image>
     <itunes:type>episodic</itunes:type>
     <itunes:subtitle></itunes:subtitle>
-    <itunes:author>Spotify Studios</itunes:author>
+    <itunes:author>otherMynd</itunes:author>
     <itunes:summary>Semi regular, eclectic, curated podcast episodes from around the web to discuss with your friends</itunes:summary>
     <content:encoded>
       <![CDATA[<p>Semi regular, eclectic, curated podcast episodes from around the web to discuss with your friends</p>]]>
@@ -27,6 +28,9 @@
     <itunes:category text="News">
     </itunes:category>
 	<item>
+      <image>
+        <url>https://assets.samharris.org/images/rss/making-sense-logo.png</url>
+      </image>
       <title>#294 - Status Games</title>
       <pubDate>Wed, 31 Aug 2022 16:16:00 +0000</pubDate>
       <guid isPermaLink="false">1580074</guid>
@@ -55,6 +59,11 @@
       <itunes:episodeType>Full</itunes:episodeType>
     </item>
 	<item>
+      <image>
+            <link>https://www.nytimes.com/ezra-klein-podcast</link>
+            <title>The Ezra Klein Show</title>
+            <url>https://image.simplecastcdn.com/images/20c893a5-2afa-416d-932c-267cdadbaeba/376e4ac0-35bb-41cb-98d3-ea33aa4fd92a/3000x3000/nyt-ezraklein-albumartwork-3000px.jpg?aid=rss_feed</url>
+      </image>
       <guid isPermaLink="false">f62eb6f9-96c5-4e45-8c2b-62e7e1dbfeab</guid>
       <title>Best Of: This Is Your Brain on Deep Reading. It’s Pretty Magnificent.</title>
       <description><![CDATA[<p>Every day, we consume a mind-boggling amount of information. We scan online news articles, sift through text messages and emails, scroll through our social-media feeds — and that’s usually before we even get out of bed in the morning. In 2009, a team of researchers found that the average American consumed about <a href="https://www.nytimes.com/2009/12/10/technology/10data.html">34 gigabytes</a> of information a day. Undoubtedly, that number would be even higher today.</p><p>But what are we actually getting from this huge influx of information? How is it affecting our memories, our attention spans, our ability to think? What might this mean for today’s children, and future generations? And what does it take to read — and think — deeply in a world so flooded with constant input?</p><p>Maryanne Wolf is a researcher and scholar at U.C.L.A.’s School of Education and Information Studies. Her books “<a href="https://www.harpercollins.com/products/proust-and-the-squid-maryanne-wolf">Proust and the Squid: The Story and Science of the Reading Brain</a>” and “<a href="https://www.harpercollins.com/products/reader-come-home-maryanne-wolf?variant=32128334594082">Reader, Come Home: The Reading Brain in a Digital World</a>” explore the relationship between the process of reading and the neuroscience of the brain. And, in Wolf’s view, our era of information overload represents a historical inflection point where our ability to read — truly, deeply read, not just scan or scroll — hangs in the balance.</p><p>In this conversation, recorded in November 2022, we discuss why reading is a fundamentally “unnatural” act, how scanning and scrolling differ from “deep reading,” why it’s not accurate to say that “reading” is just one thing, how our brains process information differently when we’re reading on a Kindle or a laptop as opposed to a physical book, how exposure to such an abundance of information is rewiring our brains and reshaping our society, how to rediscover the lost art of reading books deeply, what Wolf recommends to those of us who struggle against digital distractions, what parents can do to to protect their children’s attention, how Wolf’s theory of a “biliterate brain” may save our species’ ability to deeply process language and information and more.</p><p>We’ll be back on Friday, Dec. 1, with a new episode.</p><p>Mentioned:</p><p><a href="https://us.macmillan.com/books/9780312278496/theglassbeadgame" target="_blank">The Glass Bead Game (Magister Ludi)</a> by Hermann Hesse</p><p><a href="https://global.oup.com/academic/product/how-we-read-now-9780190084097?cc=us&lang=en&" target="_blank">How We Read Now</a> by Naomi S. Baron</p><p><a href="https://wwnorton.com/books/9780393357820" target="_blank">The Shallows</a> by Nicholas Carr</p><p><a href="https://open.spotify.com/artist/0fauHpmSHwodVYIjTqOGHz?si=l8-EYpXpT2y2y6fkUk_x4w">Yiruma</a></p><p>Book Recommendations:</p><p><a href="https://us.macmillan.com/books/9780374605353/thegileadnovelsoprahsbookclub" target="_blank">The Gilead Novels</a> by Marilynne Robinson</p><p><a href="https://www.penguinrandomhouse.com/books/87014/world-and-town-by-gish-jen/" target="_blank">World and Town</a> by Gish Jen</p><p><a href="https://www.counterpointpress.com/dd-product/standing-by-words/" target="_blank">Standing by Words</a> by Wendell Berry</p><p><a href="https://www.google.com/books/edition/Love_s_Mind/WMgCAAAACAAJ?hl=en" target="_blank">Love’s Mind</a> by John S. Dunne</p><p><a href="https://www.gutenberg.org/files/145/145-h/145-h.htm" target="_blank">Middlemarch</a> by George Eliot</p><p>Thoughts? Email us at ezrakleinshow@nytimes.com. (And if you’re reaching out to recommend a guest, please write  “Guest Suggestion” in the subject line.)</p><p>You can find transcripts (posted midday) and more episodes of “The Ezra Klein Show” at<a href="https://www.nytimes.com/column/ezra-klein-podcast" target="_blank"><strong> nytimes.com/ezra-klein-podcast</strong></a>, and you can find Ezra on Twitter @ezraklein. Book recommendations from all our guests are listed at<a href="https://www.nytimes.com/article/ezra-klein-show-book-recs.html" target="_blank"><strong> https://www.nytimes.com/article/ezra-klein-show-book-recs</strong></a>.</p><p>This episode of “The Ezra Klein Show” is produced by Emefa Agawu, Annie Galvin, Jeff Geld and Rogé Karma; fact-checking by Michelle Harris and Kate Sinclair; original music by Isaac Jones; mixing by Jeff Geld; audience strategy by Shannon Busta. Special thanks to Kristin Lin and Kristina Samulewski.</p>
